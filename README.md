@@ -1,9 +1,9 @@
 ## DS-Lab
 
-qn 1 = Singly Linked List (Student Data)
-qn 2 = Doubly Linked List (DLL) (Employee)
-qn 3 = STACK (4 Subdivisions without value)
-qn 4 = QUEUE (Concept of Array)
+# qn 1 = Singly Linked List (Student Data)
+# qn 2 = Doubly Linked List (DLL) (Employee)
+# qn 3 = STACK (4 Subdivisions without value)
+# qn 4 = QUEUE (Concept of Array)
 qn 5 = hash table (Record)
 qn 6 = hash table (Bank)
 qn 7 = Prim’s algorithm (Island)
