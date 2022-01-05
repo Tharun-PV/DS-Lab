@@ -1,4 +1,4 @@
-# DS-Lab
+## DS-Lab
 
 qn 1 = Singly Linked List (Student Data)
 qn 2 = Doubly Linked List (DLL) (Employee)
