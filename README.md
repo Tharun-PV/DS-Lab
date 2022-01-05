@@ -1,6 +1,6 @@
 ## DS-Lab
 
-# qn 1 = Singly Linked List (Student Data)
+# [qn 1 = Singly Linked List (Student Data)](https://github.com/Tharun-PV/DS-Lab/blob/main/Codes/qn01.c)
 # qn 2 = Doubly Linked List (DLL) (Employee)
 # qn 3 = STACK (4 Subdivisions without value)
 # qn 4 = QUEUE (Concept of Array)
